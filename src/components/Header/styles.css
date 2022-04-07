@@ -1,0 +1,23 @@
+.mypicture{
+    width: 90px;
+    height: 90px;
+    border-radius: 30px;
+}
+
+.linelink{
+    width: 0%;
+    height: 4px;
+    background-color: #91B2FB;
+}
+
+.link:hover .linelink{
+    animation-name: mexe_prala_e_praca;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+    width: 100%;
+}
+
+@keyframes mexe_prala_e_praca {
+   0% { width: 0%;}
+   100% { width: 100%;}
+}
