@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.5602dcda.chunk.css",
-    "main.js": "/static/js/main.93245354.chunk.js",
-    "main.js.map": "/static/js/main.93245354.chunk.js.map",
+    "main.js": "/static/js/main.fc551d97.chunk.js",
+    "main.js.map": "/static/js/main.fc551d97.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0cf30f17.js",
     "runtime-main.js.map": "/static/js/runtime-main.0cf30f17.js.map",
-    "static/js/2.bbf35064.chunk.js": "/static/js/2.bbf35064.chunk.js",
-    "static/js/2.bbf35064.chunk.js.map": "/static/js/2.bbf35064.chunk.js.map",
+    "static/js/2.404d52e6.chunk.js": "/static/js/2.404d52e6.chunk.js",
+    "static/js/2.404d52e6.chunk.js.map": "/static/js/2.404d52e6.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.5602dcda.chunk.css.map": "/static/css/main.5602dcda.chunk.css.map",
-    "static/js/2.bbf35064.chunk.js.LICENSE.txt": "/static/js/2.bbf35064.chunk.js.LICENSE.txt",
+    "static/js/2.404d52e6.chunk.js.LICENSE.txt": "/static/js/2.404d52e6.chunk.js.LICENSE.txt",
+    "static/media/CV_Gabriel_28-03-22.c5648911.pdf": "/static/media/CV_Gabriel_28-03-22.c5648911.pdf",
     "static/media/aws.7cfb1f5c.png": "/static/media/aws.7cfb1f5c.png",
     "static/media/eu2.51e7d8f1.png": "/static/media/eu2.51e7d8f1.png",
     "static/media/icon-laravel.7a1058a3.png": "/static/media/icon-laravel.7a1058a3.png",
@@ -20,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0cf30f17.js",
-    "static/js/2.bbf35064.chunk.js",
+    "static/js/2.404d52e6.chunk.js",
     "static/css/main.5602dcda.chunk.css",
-    "static/js/main.93245354.chunk.js"
+    "static/js/main.fc551d97.chunk.js"
   ]
 }
