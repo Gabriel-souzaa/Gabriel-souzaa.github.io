@@ -1,6 +1,6 @@
 {
-  "name": "portifolio",
-  "version": "0.1.0",
+  "name": "portfolio",
+  "version": "0.2.0",
   "private": true,
   "homepage": "https://gabriel-souzaa.github.io/",
   "dependencies": {
@@ -22,7 +22,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build https://github.com/Gabriel-souzaa/Gabriel-souzaa.github.io.git",
     "start": "env-cmd -f ./.env react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
