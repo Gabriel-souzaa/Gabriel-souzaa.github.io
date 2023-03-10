@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.2ae280b6.chunk.css",
-    "main.js": "/static/js/main.6f0973d8.chunk.js",
-    "main.js.map": "/static/js/main.6f0973d8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.06ebb28c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.06ebb28c.js.map",
-    "static/js/2.03499460.chunk.js": "/static/js/2.03499460.chunk.js",
-    "static/js/2.03499460.chunk.js.map": "/static/js/2.03499460.chunk.js.map",
+    "main.css": "/static/css/main.7480077d.chunk.css",
+    "main.js": "/static/js/main.2a1150aa.chunk.js",
+    "main.js.map": "/static/js/main.2a1150aa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c57f7304.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c57f7304.js.map",
+    "static/js/2.bae1b12c.chunk.js": "/static/js/2.bae1b12c.chunk.js",
+    "static/js/2.bae1b12c.chunk.js.map": "/static/js/2.bae1b12c.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.2ae280b6.chunk.css.map": "/static/css/main.2ae280b6.chunk.css.map",
-    "static/js/2.03499460.chunk.js.LICENSE.txt": "/static/js/2.03499460.chunk.js.LICENSE.txt",
-    "static/media/CV_Gabriel_28-03-22.c5648911.pdf": "/static/media/CV_Gabriel_28-03-22.c5648911.pdf",
+    "static/css/main.7480077d.chunk.css.map": "/static/css/main.7480077d.chunk.css.map",
+    "static/js/2.bae1b12c.chunk.js.LICENSE.txt": "/static/js/2.bae1b12c.chunk.js.LICENSE.txt",
+    "static/media/CV_Gabriel.58a41487.pdf": "/static/media/CV_Gabriel.58a41487.pdf",
     "static/media/aws.7cfb1f5c.png": "/static/media/aws.7cfb1f5c.png",
     "static/media/eu2.51e7d8f1.png": "/static/media/eu2.51e7d8f1.png",
     "static/media/icon-laravel.7a1058a3.png": "/static/media/icon-laravel.7a1058a3.png",
     "static/media/icon-node.f7fc2f16.png": "/static/media/icon-node.f7fc2f16.png",
     "static/media/icon-react.93a4bdf1.png": "/static/media/icon-react.93a4bdf1.png",
     "static/media/lines.765de791.svg": "/static/media/lines.765de791.svg",
+    "static/media/mysql.ac061b6d.png": "/static/media/mysql.ac061b6d.png",
     "static/media/networking.3850ba05.png": "/static/media/networking.3850ba05.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.06ebb28c.js",
-    "static/js/2.03499460.chunk.js",
-    "static/css/main.2ae280b6.chunk.css",
-    "static/js/main.6f0973d8.chunk.js"
+    "static/js/runtime-main.c57f7304.js",
+    "static/js/2.bae1b12c.chunk.js",
+    "static/css/main.7480077d.chunk.css",
+    "static/js/main.2a1150aa.chunk.js"
   ]
 }
